@@ -3,16 +3,16 @@ Akuku gets a Medal
 
 Convert to number
 
-[ ] A is 0
-[ ] B is 1
-[ ] ! is 7
+[x] A is 0
+[x] B is 1
+[x] ! is 7
 
 
 Reduce to single digit number
 
-[ ] 0 reduces to 0
-[ ] 18 reduces to 9 (1+9)
-[ ] 11 reduces to 2 (1+1)
+[x] 0 reduces to 0
+[x] 18 reduces to 9 (1+9)
+[x] 11 reduces to 2 (1+1)
 
 
 Exchange number for letter
