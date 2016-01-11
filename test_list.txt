@@ -1,0 +1,27 @@
+Akuku gets a Medal
+
+
+Convert to number
+
+[ ] A is 0
+[ ] B is 1
+[ ] ! is 7
+
+
+Reduce to single digit number
+
+[ ] 0 reduces to 0
+[ ] 18 reduces to 9 (1+9)
+[ ] 11 reduces to 2 (1+1)
+
+
+Exchange number for letter
+
+[ ] 0 is A
+[ ] 1 is B
+
+
+
+Exchange letter for Item
+
+[ ] A get Medal
