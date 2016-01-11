@@ -17,8 +17,8 @@ Reduce to single digit number
 
 Exchange number for letter
 
-[ ] 0 is A
-[ ] 1 is B
+[x] 0 is A
+[x] 1 is B
 
 
 
